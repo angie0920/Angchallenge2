@@ -1,0 +1,474 @@
+   50  cd Fintech-Workspace
+   51  ls
+   52  cd Python_Project
+   53  ls
+   54  conda activate dev
+   55  python --version
+   56  code .
+   57  python hello_python.py
+   58  conda deactivate
+   59  code .
+   60  cd Desktop
+   61  ls
+   62  code .
+   63  cd ..
+   64  ls
+   65  conda activate dev
+   66  python abc_python.py
+   67  python ownvar.py
+   68  cd ..
+   69  cd Fintech-Workspace
+   70  ls
+   71  cd Python_Project
+   72  ls
+   73  python ownvar.py
+   74  cd Python_Project
+   75  ls
+   76  python abc_python.py
+   77  python ownvar.py
+   78  .ssh/
+   79  ls -al ~/.ssh
+   80  ssh-keygen -t rsa -b 4096 -C "95700263+angie0920@users.noreply.github.com"
+   81  eval "$(ssh-agent -s)"
+   82  ssh-add ~/.ssh/id_rsa
+   83  pbcopy < ~/.ssh/id_rsa.pub
+   84  ssh -T git@github.com
+   85  conda --version
+   86  conda update anaconda
+   87  conda create -n dev python=3.7 anaconda
+   88  conda activate dev
+   89  conda init zsh
+   90  ssh -T git@github.com
+   91  conda init zsh
+   92  conda activate dev
+   93  conda init zsh
+   94  python -m ipykernel install --user --name dev
+   95  conda install -c conda-forge nodejs
+   96  conda deactivate
+   97  cd desktop/
+   98  ls
+   99  cd Fintech-Workspace
+  100  git clone <git@github.com:angie0920/chattycheeto.git>
+  101  git clone <chattycheeto>
+  102  git clone chattycheeto
+  103  ssh -T git@github.com
+  104  eval "$ssh-agent -s)"
+  105  eval "$(ssh-agent -s)"
+  106  ssh-add ~/.ssh/id_rsa
+  107  pbcopy < ~/.ssh/id_rsa.pub
+  108  ssh -T git@github.com
+  109  cd ~/.ssh
+  110  ls -la
+  111  git
+  112  cd /Users/angelarichter/Desktop/Fintech-Workspace
+  113  git status
+  114  cd RICE
+  115  cd RICE-VIRT-FIN-PT-12-2021-U-B-main
+  116  git status
+  117  cd ..
+  118  rm -rf RICE-VIRT-FIN-PT-12-2021-U-B-main
+  119  git clone git@rice.bootcampcontent.com:Rice-Coding-Bootcamp/RICE-VIRT-FIN-PT-12-2021-U-B.git
+  120  conda activate conda
+  121  conda activate dev
+  122  cd '/Users/angelarichter/Desktop/Fintech-Workspace/test_code.py'
+  123  cd ..
+  124  cd ..
+  125  cd ..
+  126  cd ..
+  127  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/RICE-VIRT-FIN-PT-12-2021-U-B/Challenges/Challenge 1/Starter_Code/loan_analyzer.py"
+  128  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/RICE-VIRT-FIN-PT-12-2021-U-B/Challenges/Challenge 1/Starter_Code/loan_analyzer.py"
+  129  conda activate dev
+  130  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/RICE-VIRT-FIN-PT-12-2021-U-B/Challenges/Challenge 1/Starter_Code/loan_analyzer.py"
+  131  cd Desktop/
+  132  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/RICE-VIRT-FIN-PT-12-2021-U-B/Challenges/Challenge 1/Starter_Code/loan_analyzer.py"
+  133  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/RICE-VIRT-FIN-PT-12-2021-U-B/Challenges/Challenge 1/Starter_Code/loan_analyzer.py"
+  134  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  135  '/Users/angelarichter/Desktop/Fintech-Workspace/test_code.py'
+  136  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  137  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  138  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  139  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  140  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  141  cd Desktop/
+  142  cd Fintech-Workspace/
+  143  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  144  conda activate dev
+  145  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  146  python --version
+  147  python test_code.py
+  148  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  149  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  150  conda activate dev
+  151  Desktop/
+  152  cd Desktop/
+  153  cd Fintech-Workspace/
+  154  python test_code.py
+  155  cd Python_Project/
+  156  ls
+  157  python hello_python.py
+  158  cd ..
+  159  cd ..
+  160  cd ..
+  161  cd .
+  162  cd ..
+  163  ls
+  164  python test_code.py
+  165  python test_code.py
+  166  python test_code.py
+  167  python test_code.py
+  168  python test_code.py
+  169  python test_code.py
+  170  ls
+  171  python test_code.py
+  172  python test_code.py
+  173  conda activate dev
+  174  python test_code.py
+  175  python test_code.py
+  176  python test_code.py
+  177  python test_code.py
+  178  python test_code.py
+  179  python test_code.py
+  180  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  181  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  182  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  183  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  184  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  185  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  186  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  187  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  188  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  189  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  190  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  191  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  192  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  193  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  194  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  195  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  196  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  197  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  198  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  199  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  200  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  201  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  202  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  203  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  204  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  205  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  206  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  207  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  208  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  209  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  210  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  211  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  212  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  213  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  214  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  215  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  216  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  217  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  218  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  219  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  220  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  221  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  222  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  223  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  224  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  225  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  226  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  227  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  228  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  229  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  230  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  231  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  232  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  233  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  234  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  235  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  236  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  237  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  238  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  239  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  240  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  241  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  242  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  243  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  244  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  245  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  246  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  247  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  248  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  249  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  250  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  251  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  252  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  253  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  254  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  255  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  256  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  257  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  258  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  259  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  260  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  261  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  262  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  263  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  264  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  265  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  266  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  267  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  268  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  269  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  270  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  271  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  272  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  273  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  274  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  275  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  276  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  277  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/test_code.py
+  278  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  279  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  280  '/Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/loanwr.ipynb'/usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  281  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  282  jupyer-lab
+  283  conda activate dev
+  284  cd ..
+  285  cd ..
+  286  cd ..
+  287  ls
+  288  mkdir testcode
+  289  mkdir <testcode>
+  290  mkdir \testcode
+  291  open .
+  292  cd .
+  293  cd \testcode
+  294  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/RICE-VIRT-FIN-PT-12-2021-U-B/testcode/testimport_code.py
+  295  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/RICE-VIRT-FIN-PT-12-2021-U-B/testcode/testimport_code.py
+  296  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py"
+  297  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py"
+  298  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py"
+  299  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py"
+  300  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py"
+  301  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py"
+  302  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  303  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  304  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  305  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  306  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  307  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  308  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  309  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  310  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  311  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  312  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  313  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  314  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  315  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  316  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  317  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  318  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  319  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  320  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  321  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  322  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  323  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  324  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  325  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  326  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  327  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  328  code .
+  329  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  330  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  331  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  332  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  333  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  334  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  335  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  336  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  337  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  338  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  339  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Read_and_Write_CSV/read_writecsv.py"
+  340  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  341  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  342  /usr/bin/python3 /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  343  conda activate dev
+  344  pip -V
+  345  pip freeze
+  346  pip install fire
+  347  pip install questionary
+  348  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  349  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  350  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  351  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  352  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  353  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  354  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  355  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/Learning modules/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  356  pip install fire
+  357   /usr/bin/env /usr/bin/python3 /Users/angelarichter/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 50849 -- -m enter-your-module-name 
+  358  /usr/bin/python3 "/Users/angelarichter/Desktop/Fintech-Workspace/import fire.py"
+  359  pip install fire
+  360  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python "/Users/angelarichter/Desktop/Fintech-Workspace/import fire.py"
+  361  conda activate dev
+  362  cd
+  363  ls
+  364  cd Desktop
+  365  ls
+  366  cd Fintech-Workspace
+  367  ls
+  368  python import_fire.py
+  369  ls
+  370  cd Desktop
+  371  ls
+  372  cd Fintech-Workspace
+  373  ls
+  374  pip install fie
+  375  pip install fire
+  376  conda list fire
+  377  code .
+  378  code.
+  379  conda activate dev
+  380  ls
+  381  ckear
+  382  clear
+  383  conda list fire
+  384  conda deactivate 
+  385  conda list fire
+  386  code .
+  387  jupyterlb
+  388  jupyterlab
+  389  jupyter lab
+  390  git config --global user.name <angela richter>
+  391  conda activate dev
+  392  git config --global user.name angela richter
+  393  git config --global user.email angela.richter1@gmail.com
+  394  git config --list
+  395  conda deactivate conda
+  396  conda deactivate dev
+  397  source /Users/angelarichter/opt/anaconda3/bin/activate
+  398  conda activate dev
+  399  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  400  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  401  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/qualifier/filters/max_loan_size.py
+  402  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  403  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  404  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  405  git config --list
+  406  git clone https://github.com/angie0920/Newtestrepo.git
+  407  ls
+  408  cd Desktop
+  409  ls
+  410  cd Fintech-Workspace
+  411  git clone https://github.com/angie0920/Newtestrepo.git
+  412  git status
+  413  ls
+  414  cd Newtestrepo
+  415  git status
+  416  git add README.md
+  417  git status
+  418  touch new_file.txt
+  419  ls
+  420  git status
+  421  git add new_file.txt
+  422  git status
+  423  gitcommit -m "commit hi"
+  424  git status
+  425  git commit -m "commit hi"
+  426  git status
+  427  git push
+  428  git push
+  429  git push
+  430  git status
+  431  git push
+  432  git push
+  433  conda activate dev
+  434  git push
+  435  git push
+  436  git status
+  437  source /Users/angelarichter/opt/anaconda3/bin/activate
+  438  conda activate dev
+  439  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  440  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  441  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  442  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  443  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  444  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  445  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  446  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  447  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  448  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  449  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  450  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  451  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  452  source /Users/angelarichter/opt/anaconda3/bin/activate
+  453  conda activate dev
+  454  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  455  conda activate dev
+  456  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  457  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  458  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  459  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  460  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  461  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  462  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  463  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  464  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  465  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  466  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  467  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  468  source /Users/angelarichter/opt/anaconda3/bin/activate
+  469  conda activate dev
+  470  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  471  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  472  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  473  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  474  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  475  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  476  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  477  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  478  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  479  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  480  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  481  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  482  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  483  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge1/challenge1.py
+  484  source /Users/angelarichter/opt/anaconda3/bin/activate
+  485  conda activate dev
+  486  source /Users/angelarichter/opt/anaconda3/bin/activate
+  487  conda activate dev
+  488  source /Users/angelarichter/opt/anaconda3/bin/activate
+  489  conda activate dev
+  490  /Users/angelarichter/opt/anaconda3/envs/dev/bin/python /Users/angelarichter/Desktop/Fintech-Workspace/Git_hub_upload/Challenge2/loan_qualifier_app/app.py
+  491  ls
+  492  cd Desktop
+  493  cd Fintech-Workspace
+  494  ls
+  495  cd Newtestrepo
+  496  git config --list
+  497  git push
+  498  git push
+  499  git push
+  500  git commit -m "please work"
+  501  git add .
+  502  git status
+  503  cd ..
+  504  ls
+  505  cd Git_hub_upload
+  506  history 50> terminal_history.txt
+  507  ls
+  508  cd Challenge2
+  509  history 50> terminal_history.txt
+  510  cd loan_qualifier_app
+  511  history 50 > terminal_history.txt
+  512  conda activate dev
+  513  git clone git@github.com:angie0920/Angchallenge2.git
+  514  cd Fintech-Workspace
+  515  ls
+  516  cd Desktop
+  517  cd Fintech-Workspace
+  518  ls
+  519  Git_hub_upload
+  520  cd Git_hub_upload
+  521  ls
+  522  cd Challenge2
+  523  git clone git@github.com:angie0920/Angchallenge2.git
