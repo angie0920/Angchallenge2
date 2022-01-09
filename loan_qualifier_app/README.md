@@ -1,12 +1,12 @@
-# Project Title
+# Loan Qualifier App - Challenge 2 Submission
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+This is an app that prompts the user for a few key pieces of information to determine if the user qualifies for a loan. If the user does qualify for loans, the user can choose whether to save the results to a csv file.
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+Main technology is python code organized as modules. The file app.py pulls other functions from files located in subfolders.
 
 ---
 
